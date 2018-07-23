@@ -1,0 +1,10 @@
+package selenium;
+
+public class Sample_pgm {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
